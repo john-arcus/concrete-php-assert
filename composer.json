@@ -1,5 +1,5 @@
 {
-    "name": "arcus/concrete-php-assert",
+    "name": "arcus-software/concrete-php-assert",
     "description": "A concrete class that extends PHPUnit'Assert class.",
     "license": "Apache-2.0",
     "require-dev": {
