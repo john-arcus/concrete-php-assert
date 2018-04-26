@@ -30,7 +30,7 @@ $ composer require --dev arcus-software/concrete-php-assert
 
 See actual usages of this code within a Behat FeatureContext.php script.
 
-See: 
+See the `FeatureContext` class in this project at: 
 
 ```bash
 features/bootstrap/FeatureContext.php
