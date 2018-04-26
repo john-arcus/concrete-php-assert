@@ -1,6 +1,8 @@
 # concrete-php-assert
 A concrete class that extends PHPUnit\Framework\Assert so that it can be instantiated as a class and used as an object.
 
+See my [User Story where I first used this package in a project](https://github.com/john-arcus/xandria-demo/issues/2#issue-318208017).
+
 ## Do you really need it?
 
 If you just want a short name for that class you could `use` the short version of the name.
