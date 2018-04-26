@@ -6,7 +6,7 @@ If you just want a short name for that class you could `use` the short version o
 See: [Using namespaces: Aliasing/Importing](http://php.net/manual/en/language.namespaces.importing.php)
 
 ```php
-use PHPUnit\Framework\Assert as Assert;
+use PHPUnit\Framework\Assert;
 ```
 
 Is the same as:
