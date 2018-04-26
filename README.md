@@ -5,6 +5,8 @@ See my [User Story where I first used this package in a project](https://github.
 
 ## Do you really need it?
 
+I started this project to make typing assertion invocations easier. As I implemented my idea I started to doubt if the project was worthwhile. So, bear in mind. This project might be pointless and you might be better of not using it. Meanwhile, I had started so I had to finish it.
+
 If you just want a short name for that class you could `use` the short version of the name.
 
 See: [Using namespaces: Aliasing/Importing](http://php.net/manual/en/language.namespaces.importing.php)
@@ -18,6 +20,13 @@ Is the same as:
 ```php
 use PHPUnit\Framework\Assert as Assert;
 ```
+
+So assertions could be invoked in just a few characters:
+
+```php
+Assert::assertTrue($foo);
+```
+
 
 ## Install via Composer
 
